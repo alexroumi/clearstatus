@@ -15,7 +15,7 @@ params:
   dateFormat: January 2, 2006 at 3:04 PM
   disqusShortname: null
   timezoneString: " UTC"
-  logo: /images/clearstatus.svg
+  logo: /images/logo.jpg
   description_header: ""
   copyrightHolder: 1GymholRadio
   eventsPerPage: 10
