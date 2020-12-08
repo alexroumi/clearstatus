@@ -15,7 +15,7 @@ params:
   dateFormat: January 2, 2006 at 3:04 PM
   disqusShortname: null
   timezoneString: " UTC"
-  logo: /images/logo.jpg
+  logo: blob:https://1gymholradiostatus.netlify.app/4938dfa8-7c8d-43d2-9c9e-faf3806fb367
   description_header: ""
   copyrightHolder: 1GymholRadio
   eventsPerPage: 10
