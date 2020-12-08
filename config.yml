@@ -9,7 +9,9 @@ params:
       link: https:1gymholradio.gr
     - name: Audio server 1
       description: ""
-      link: https://s1.1gymholradio.gr
+      link: ""
+    - name: Audio server 2
+      link: https://1gymholradio.radiostream321.com/
   dateFormat: January 2, 2006 at 3:04 PM
   disqusShortname: null
   timezoneString: " UTC"
